@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-F:/Unity/Projects/Dodge Block Mobile/Builds/v0.7.apk
+F:/Unity/Projects/Dodge Block Mobile-Git/Dodge-Block-Mobile/Dodge Block Mobile/Builds/v0.9.apk
 SceneListBegin?
 Assets/Scenes/MainLevel.unity
 SceneListEnd?
@@ -163,7 +163,7 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
-333a852f3c1db5cccb7927a32e825c80 Assembly-CSharp.dll:.GameManager
+08530ed779f621115cc8b037c9ffe36b Assembly-CSharp.dll:.GameManager
 e4136be9fe23a21e30138e18ad9779fe Assembly-CSharp.dll:.Block
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 41c89306eeaafd3d6f191ca411d9fd18 Assembly-CSharp.dll:.Music
